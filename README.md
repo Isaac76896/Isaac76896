@@ -80,14 +80,6 @@ A Python/Pygame version of the classic Pong game with a custom twist.
 
 ---
 
-## GitHub Stats
-
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac76896&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac76896&layout=compact&theme=default)
-
----
-
 ## Connect With Me
 
 - GitHub: [Isaac76896](https://github.com/Isaac76896)
