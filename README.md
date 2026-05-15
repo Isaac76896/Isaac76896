@@ -10,7 +10,6 @@ I'm a Computer Science student focused on building practical software projects u
 - 💻 Interested in software engineering, Java development, database-driven applications, and machine learning
 - 🧠 Currently improving my skills in JavaFX, MySQL, Maven, Git, and full project organization
 - 🚀 Building projects that demonstrate OOP, MVC-style architecture, UI design, and database connectivity
-- 📍 Based in Texas
 
 ---
 
