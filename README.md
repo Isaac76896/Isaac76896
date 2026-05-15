@@ -92,8 +92,7 @@ A Python/Pygame version of the classic Pong game with a custom twist.
 ## Connect With Me
 
 - GitHub: [Isaac76896](https://github.com/Isaac76896)
-- LinkedIn: Add your LinkedIn link here
-- Portfolio: Add your portfolio link here
+- LinkedIn: https://www.linkedin.com/in/isaaclopezsalazar/
 
 ---
 
